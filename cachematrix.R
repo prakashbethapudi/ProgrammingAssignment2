@@ -21,8 +21,6 @@ makeCacheMatrix <- function(m = matrix()) {
 }
 
 
-}
-
 
 ## Write a short comment describing this function
 
